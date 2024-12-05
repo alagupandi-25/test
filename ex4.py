@@ -27,3 +27,7 @@ def get_weather(city_name):
 
 city = input("Enter city name: ").strip()
 get_weather(city)
+
+# https://chatgpt.com/share/6751374e-b79c-8006-94d3-c3d18f1d4fc3
+
+#https://phoenixnap.com/kb/install-hadoop-ubuntu
